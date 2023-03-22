@@ -1,0 +1,697 @@
+{
+  "Maps": [
+    {
+      "displayName": "Standoff",
+      "mapName": "bunkerworld"
+    },
+    {
+      "displayName": "Valhalla",
+      "mapName": "riverworld"
+    },
+    {
+      "displayName": "Guardian",
+      "mapName": "guardian"
+    },
+    {
+      "displayName": "Last Resort",
+      "mapName": "zanzibar"
+    },
+    {
+      "displayName": "Sandtrap",
+      "mapName": "shrine"
+    },
+    {
+      "displayName": "Diamondback",
+      "mapName": "s3d_avalanche"
+    },
+    {
+      "displayName": "High Ground",
+      "mapName": "deadlock"
+    },
+    {
+      "displayName": "Ice Box",
+      "mapName": "s3d_turf"
+    },
+    {
+      "displayName": "Narrows",
+      "mapName": "chill"
+    },
+    {
+      "displayName": "The Pit",
+      "mapName": "cyberdyne"
+    },
+    {
+      "displayName": "Reactor",
+      "mapName": "s3d_reactor"
+    },
+    {
+      "displayName": "Edge",
+      "mapName": "s3d_edge"
+    }
+  ],
+  "Types": [
+    {
+      "displayName": "HP.Edge",
+      "typeName": "EDG Hot Pursuit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Edge Hot Pursuit",
+          "mapName": "EDG Hot Pursuit"
+        }
+      ]
+    },
+    {
+      "displayName": "Warthog Run",
+      "typeName": "Warthog Run",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Warthog Run",
+          "mapName": "Warthog Run"
+        }
+      ]
+    },
+    {
+      "displayName": "Gladiators",
+      "typeName": "Friendship Pit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Friendship Pit",
+          "mapName": "Friendship Pit"
+        }
+      ]
+    },
+	{
+      "displayName": "BackRooms",
+      "typeName": "BackRooms",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "BackRooms",
+          "mapName": "BackRooms"
+        }
+      ]
+    },
+    {
+      "displayName": "DK",
+      "typeName": "Donkey Kong",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Donkey Kong",
+          "mapName": "Donkey Kong"
+        }
+      ]
+    },
+    {
+      "displayName": "Hot Pursuit",
+      "typeName": "Hot Pursuit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Beach Resort",
+          "mapName": "Hot Pursuit Beach Resort"
+        },
+	    {
+          "displayName": "HP Guardian",
+          "mapName": "HP Guardian"
+        },
+        {
+          "displayName": "Hightops",
+          "mapName": "HP.Hightops"
+        }
+      ]
+    },
+	{
+      "displayName": "Cursed HP",
+      "typeName": "Cursed HP",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+		{
+          "displayName": "Cursed Stan HP",
+          "mapName": "Hot Pursuit Beach Resort"
+        },
+        {
+          "displayName": "Cursed High HP",
+          "mapName": "HP.Hightops"
+        },
+		{
+          "displayName": "Cursed Edge HP",
+          "mapName": "EDG Hot Pursuit"
+        }
+      ]
+    },
+    {
+      "displayName": "Bee Box",
+      "typeName": "Bee Box",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Bee Box",
+          "mapName": "Bee Box"
+        }
+      ]
+    },
+    {
+      "displayName": "Pests!",
+      "typeName": "Exterminator",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Exterminator",
+          "mapName": "Exterminator"
+        }
+      ]
+    },
+    {
+      "displayName": "FFA Fiesta",
+      "typeName": "FFA Fiesta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
+        },
+		{
+		  "displayName": "High Ground",
+           "mapName": "deadlock"
+        },
+		{
+          "displayName": "H1 Bridges",
+          "mapName": "Bridges"
+        },
+		{
+          "displayName": "MW2 Rust",
+          "mapName": "MW2 Rust"
+        }
+      ]
+    },
+    {
+      "displayName": "Frogger",
+      "typeName": "Frogger",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Frogger"
+        }
+      ]
+    },
+	    {
+      "displayName": "Cursed Frogger",
+      "typeName": "Cursed Frogger",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Cursed Frogger",
+          "mapName": "Cursed Frogger"
+        }
+      ]
+    },
+    {
+      "displayName": "Gladiators",
+      "typeName": "Maximus",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Maximus",
+          "mapName": "Maximus"
+        }
+      ]
+    },
+    {
+      "displayName": "Demo Derby",
+      "typeName": "Demo Derby",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Demo Derby",
+          "mapName": "Demo Derby"
+        }
+      ]
+    },
+    {
+      "displayName": "FatKid Levelz",
+      "typeName": "FatKid Levelz",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "FatKid Levelz",
+          "mapName": "FatKid Levelz"
+        }
+      ]
+    },
+    {
+      "displayName": "Cursed Wars",
+      "typeName": "Castle Wars",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Cursed Wars 0.7",
+          "mapName": "Cursed Wars 0.7"
+        }
+      ]
+    },
+    {
+      "displayName": "Castle Wars",
+      "typeName": "Castle Wars",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Castle Wars 1.8",
+          "mapName": "Castle Wars 1.8"
+        },
+	    {
+          "displayName": "Tundra Wars",
+          "mapName": "Tundra Wars"
+        },
+		{
+          "displayName": "Pallet Wars",
+          "mapName": "Pallet Wars"
+        },
+	    {
+          "displayName": "Mountain Castle",
+          "mapName": "Mountain Castle"
+        }
+      ]
+    },
+    {
+      "displayName": "Race",
+      "typeName": "Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sirius sucs Balls",
+          "mapName": "Bowser's Castle"
+        },
+        {
+          "displayName": "Bowser's Castle",
+          "mapName": "Koopa Castle"
+        }
+      ]
+    },
+    {
+      "displayName": "Halo Ring",
+      "typeName": "Halo Ring V3",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Ring V3",
+          "mapName": "Halo Ring V3"
+        },
+	    {
+          "displayName": "Hunting Season",
+          "mapName": "Hunting Season"
+        }
+      ]
+    },
+    {
+      "displayName": "Death Run",
+      "typeName": "Death Run",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Death Run",
+          "mapName": "Death Run"
+        },
+	    {
+          "displayName": "Death Run v2",
+          "mapName": "Death Run v2"
+        }
+      ]
+    },
+    {
+      "displayName": "Drive or Die",
+      "typeName": "Drive or Die",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Drive or Die",
+          "mapName": "Drive or Die"
+        },
+		{
+          "displayName": "Outbreak City",
+          "mapName": "Outbreak City"
+        }
+      ]
+    },
+    {
+      "displayName": "Blue Rover",
+      "typeName": "Blue Rover",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Blue Rover",
+          "mapName": "Blue Rover"
+        }
+      ]
+    },
+    {
+      "displayName": "FatKid",
+      "typeName": "Cerberus",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Big Smoke Order",
+          "mapName": "Big Smoke Order"
+        },
+		{
+          "displayName": "Cerberus",
+          "mapName": "Cerberus"
+        }
+      ]
+    },
+    {
+      "displayName": "Infection",
+      "typeName": "Epidemic",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Epidemic",
+          "mapName": "Epidemic"
+        }
+      ]
+    },
+    {
+      "displayName": "Godzilla",
+      "typeName": "Outbreak City",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Outbreak City",
+          "mapName": "Outbreak City"
+        }
+      ]
+    },
+    {
+      "displayName": "Skycastle 6.1",
+      "typeName": "Skycastle 6.1",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Skycastle 6.1",
+          "mapName": "Skycastle 6.1"
+        }
+      ]
+    },
+    {
+      "displayName": "Hog Of The Hill",
+      "typeName": "Hog Of The Hill",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Hog Of The Hill",
+          "mapName": "Hog Of The Hill"
+        }
+      ]
+    },
+    {
+      "displayName": "LSD Race on LSD",
+      "typeName": "LSD Race on LSD",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "LSD Race on LSD",
+          "mapName": "LSD Race on LSD"
+        }
+      ]
+    },
+	{
+      "displayName": "Splatter Monkey",
+      "typeName": "Splatter Monkey",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Splatter Monkey",
+          "mapName": "Splatter Monkey"
+        }
+      ]
+    },
+    {
+      "displayName": "LSA Race",
+      "typeName": "LSA Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "LSA Race",
+          "mapName": "LSA Race"
+        }
+      ]
+    },
+	{
+      "displayName": "Fiesta KOTH",
+      "typeName": "Fiesta KOTH",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 4"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Block Fort KOTH",
+          "mapName": "Block Fort KOTH"
+        }
+      ]
+    },
+    {
+      "displayName": "Drag Race",
+      "typeName": "Drag Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8", "Server.TeamSize 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Drag Race",
+          "mapName": "Drag Race"
+        }
+      ]
+    },
+    {
+      "displayName": "FFA Slayer",
+      "typeName": "FFA Slayer",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "H3 Citadel",
+          "mapName": "H3 Citadel"
+        },
+        {
+          "displayName": "H1 Hang em High",
+          "mapName": "H1 Hang em High"
+        },
+	    {
+          "displayName": "Crimson",
+          "mapName": "Crimson"
+        },
+	    {
+          "displayName": "H2 Lockout",
+          "mapName": "Lockout"
+        },
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        }
+      ]
+    },
+	{
+      "displayName": "Team Snipers",
+      "typeName": "Team Snipers",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        },
+	    {
+          "displayName": "H2 Lockout",
+          "mapName": "Lockout"
+        },
+		{
+          "displayName": "MW2 Rust",
+          "mapName": "MW2 Rust"
+        }
+      ]
+    },
+	{
+      "displayName": "Parkour",
+      "typeName": "Parkour",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+		{
+          "displayName": "AFK Bazaar",
+          "mapName": "AFK Bazaar"
+        },
+		{
+          "displayName": "4D Construction",
+          "mapName": "4D Construction"
+        }
+      ]
+    },
+    {
+      "displayName": "Get Out",
+      "typeName": "Warehouse v1.5",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Warehouse v1.5",
+          "mapName": "Warehouse v1.5"
+        }
+      ]
+    },
+    {
+      "displayName": "Termites",
+      "typeName": "Termites",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Termites",
+          "mapName": "Termites"
+        }
+      ]
+    }
+  ]
+}
