@@ -146,14 +146,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "COVIESTATION",
+      "displayName": "COVENANT FIESTA",
       "SpecificMaps": [
         {
           "displayName": "COVIESTATION",
           "mapName": "COVIESTATION"
         }
       ],
-      "typeName": "COVIESTATION"
+      "typeName": "COVENANT FIESTA"
     },
     {
       "commands": [
@@ -548,6 +548,10 @@
           "mapName": "Big Smoke Order"
         },
         {
+          "displayName": "FatKidRevenge",
+          "mapName": "FatKidRevenge"
+        },
+        {
           "displayName": "Indiana Jones",
           "mapName": "IndianaJonesv2"
         },
@@ -674,36 +678,6 @@
         }
       ],
       "typeName": "FatKid Levelz"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "FatKid Presidio v3",
-      "SpecificMaps": [
-        {
-          "displayName": "FatKid Presidio v3",
-          "mapName": "FatKid Presidio v3"
-        }
-      ],
-      "typeName": "FatKid Presidio v3"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "FatKidRevenge",
-      "SpecificMaps": [
-        {
-          "displayName": "FatKidRevenge",
-          "mapName": "FatKidRevenge"
-        }
-      ],
-      "typeName": "FatKidRevenge"
     },
     {
       "commands": [
@@ -1177,14 +1151,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Nuketown",
+      "displayName": "Nuketown KOTH",
       "SpecificMaps": [
         {
           "displayName": "Nuketown",
           "mapName": "Nuketown"
         }
       ],
-      "typeName": "Nuketown"
+      "typeName": "Nuketown KOTH"
     },
     {
       "commands": [
@@ -1522,14 +1496,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Splatter Trail",
+      "displayName": "Sunday Driver",
       "SpecificMaps": [
         {
           "displayName": "Splatter Trail",
           "mapName": "Splatter Trail"
         }
       ],
-      "typeName": "Splatter Trail"
+      "typeName": "Sunday Driver"
     },
     {
       "commands": [
