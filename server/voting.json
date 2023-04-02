@@ -314,8 +314,8 @@
       "displayName": "Death Run",
       "SpecificMaps": [
         {
-          "displayName": "Death Run",
-          "mapName": "Death Run"
+          "displayName": "Hall of Death",
+          "mapName": "Hall of Death"
         }
       ],
       "typeName": "Death Run"
@@ -551,6 +551,21 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
+      "displayName": "Fatkid",
+      "SpecificMaps": [
+        {
+          "displayName": "IndianaJonesv2",
+          "mapName": "IndianaJonesv2"
+        }
+      ],
+      "typeName": "Fatkid"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
       "displayName": "FFA Fiesta",
       "SpecificMaps": [
         {
@@ -691,21 +706,6 @@
         }
       ],
       "typeName": "FatKidRevenge"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Fiesta Hangar",
-      "SpecificMaps": [
-        {
-          "displayName": "Fiesta Hangar",
-          "mapName": "Fiesta Hangar"
-        }
-      ],
-      "typeName": "Fiesta Hangar"
     },
     {
       "commands": [
@@ -977,21 +977,6 @@
         }
       ],
       "typeName": "Ice Cream Man"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "IndianaJonesv2",
-      "SpecificMaps": [
-        {
-          "displayName": "IndianaJonesv2",
-          "mapName": "IndianaJonesv2"
-        }
-      ],
-      "typeName": "IndianaJonesv2"
     },
     {
       "commands": [
