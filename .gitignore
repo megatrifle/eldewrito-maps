@@ -1,0 +1,9 @@
+# Gitignore file for an Eldewrito mods directory
+# This repository should only include server-relevant content
+
+# Local mod folders
+forge/
+medals/
+tagMods/
+ui/
+weapons/
