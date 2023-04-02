@@ -376,10 +376,10 @@
       "SpecificMaps": [
         {
           "displayName": "Donkey Kong",
-          "mapName": "Donkey Kong"
+          "mapName": "Donkey Kong v1"
         }
       ],
-      "typeName": "Donkey Kong"
+      "typeName": "Donkey Kong v1"
     },
     {
       "commands": [
@@ -730,10 +730,10 @@
       "SpecificMaps": [
         {
           "displayName": "Fly Swatter",
-          "mapName": "Fly Swatter"
+          "mapName": "Fly Swatter 2"
         }
       ],
-      "typeName": "Fly Swatter"
+      "typeName": "Fly Swatter 2"
     },
     {
       "commands": [
@@ -864,8 +864,8 @@
       "displayName": "Guilty Spark",
       "SpecificMaps": [
         {
-          "displayName": "Guilty Spark",
-          "mapName": "Guilty Spark"
+          "displayName": "Control Room I",
+          "mapName": "Control Room I"
         }
       ],
       "typeName": "Guilty Spark"
