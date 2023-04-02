@@ -360,7 +360,7 @@
       "SpecificMaps": [
         {
           "displayName": "Demo Derby",
-          "mapName": "Demo Derby"
+          "mapName": "Demo Derby 1.3"
         }
       ],
       "typeName": "Demo Derby"
@@ -554,7 +554,11 @@
       "displayName": "Fatkid",
       "SpecificMaps": [
         {
-          "displayName": "IndianaJonesv2",
+          "displayName": "Presidio v3",
+          "mapName": "Presidio v3"
+        },
+        {
+          "displayName": "Indiana Jones",
           "mapName": "IndianaJonesv2"
         }
       ],
@@ -1329,14 +1333,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Replicant V2",
+      "displayName": "Single Dash",
       "SpecificMaps": [
         {
-          "displayName": "Replicant V2",
+          "displayName": "Replicant",
           "mapName": "Replicant V2"
         }
       ],
-      "typeName": "Replicant V2"
+      "typeName": "Single Dash"
     },
     {
       "commands": [
@@ -1404,14 +1408,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Skycastle 6.1",
+      "displayName": "Skycastle Plus",
       "SpecificMaps": [
         {
           "displayName": "Skycastle 6.1",
-          "mapName": "Skycastle 6.1"
+          "mapName": "Skycastle 6.1RB"
         }
       ],
-      "typeName": "Skycastle 6.1"
+      "typeName": "Skycastle Plus"
     },
     {
       "commands": [
@@ -1674,14 +1678,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Toy Story Race",
+      "displayName": "Hot Wheels",
       "SpecificMaps": [
         {
-          "displayName": "Toy Story Race",
-          "mapName": "Toy Story Race"
+          "displayName": "Toy Story",
+          "mapName": "Toy Story"
         }
       ],
-      "typeName": "Toy Story Race"
+      "typeName": "Hot Wheels"
     },
     {
       "commands": [
