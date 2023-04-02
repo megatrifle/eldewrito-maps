@@ -284,8 +284,24 @@
       "displayName": "Cursed HP",
       "SpecificMaps": [
         {
-          "displayName": "Cursed HP",
-          "mapName": "Cursed HP"
+          "displayName": "EDG",
+          "mapName": "EDG Hot Pursuit"
+        },
+        {
+          "displayName": "Beach Resort",
+          "mapName": "HP Beach Resort"
+        },
+        {
+          "displayName": "DM",
+          "mapName": "HP DM"
+        },
+        {
+          "displayName": "Guardian",
+          "mapName": "HP Guardian"
+        },
+        {
+          "displayName": "Hightops",
+          "mapName": "HP Hightops"
         }
       ],
       "typeName": "Cursed HP"
