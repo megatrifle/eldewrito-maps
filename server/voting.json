@@ -56,6 +56,51 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
+      "displayName": "Altiorem",
+      "SpecificMaps": [
+        {
+          "displayName": "Altiorem",
+          "mapName": "Altiorem"
+        }
+      ],
+      "typeName": "Altiorem"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Backrooms",
+      "SpecificMaps": [
+        {
+          "displayName": "Back Rooms",
+          "mapName": "Back Rooms"
+        }
+      ],
+      "typeName": "backrooms"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Drive! Rocketway",
+      "SpecificMaps": [
+        {
+          "displayName": "Drive! Rocketway",
+          "mapName": "Drive! Rocketway"
+        }
+      ],
+      "typeName": "Drive! Rocketway"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
       "displayName": "Entrenched",
       "SpecificMaps": [
         {
@@ -91,6 +136,21 @@
         }
       ],
       "typeName": "FFA Slayer"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Fat Kid Origins",
+      "SpecificMaps": [
+        {
+          "displayName": "Fat Kid Origins",
+          "mapName": "Fat Kid Origins"
+        }
+      ],
+      "typeName": "Fat Kid Origins"
     },
     {
       "commands": [
@@ -278,6 +338,21 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
+      "displayName": "Team Snipers",
+      "SpecificMaps": [
+        {
+          "displayName": "Guardian",
+          "mapName": "guardian"
+        }
+      ],
+      "typeName": "Team Snipers"
+    },
+    {
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
       "displayName": "The Train",
       "SpecificMaps": [
         {
@@ -353,21 +428,6 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Warthog Run",
-      "SpecificMaps": [
-        {
-          "displayName": "Warthog Run",
-          "mapName": "Warthog Run"
-        }
-      ],
-      "typeName": "Warthog Run"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
       "displayName": "Warehouse v1.5",
       "SpecificMaps": [
         {
@@ -383,74 +443,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Team Snipers",
+      "displayName": "Warthog Run",
       "SpecificMaps": [
         {
-          "displayName": "Guardian",
-          "mapName": "guardian"
+          "displayName": "Warthog Run",
+          "mapName": "Warthog Run"
         }
       ],
-      "typeName": "Team Snipers"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Backrooms",
-      "SpecificMaps": [
-        {
-          "displayName": "Backrooms",
-          "mapName": "Backrooms"
-        }
-      ],
-      "typeName": "Backrooms"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Altiorem",
-      "SpecificMaps": [
-        {
-          "displayName": "Altiorem",
-          "mapName": "Altiorem"
-        }
-      ],
-      "typeName": "Altiorem"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Drive! Rocketway",
-      "SpecificMaps": [
-        {
-          "displayName": "Drive! Rocketway",
-          "mapName": "Drive! Rocketway"
-        }
-      ],
-      "typeName": "Drive! Rocketway"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Fat Kid Origins",
-      "SpecificMaps": [
-        {
-          "displayName": "Fat Kid Origins",
-          "mapName": "Fat Kid Origins"
-        }
-      ],
-      "typeName": "Fat Kid Origins"
+      "typeName": "Warthog Run"
     }
   ]
 }
