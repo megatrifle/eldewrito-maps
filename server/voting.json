@@ -476,21 +476,6 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "EDG Hot Pursuit",
-      "SpecificMaps": [
-        {
-          "displayName": "EDG Hot Pursuit",
-          "mapName": "EDG Hot Pursuit"
-        }
-      ],
-      "typeName": "EDG Hot Pursuit"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
       "displayName": "Elephant Raid",
       "SpecificMaps": [
         {
@@ -908,66 +893,6 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "HP Beach Resort",
-      "SpecificMaps": [
-        {
-          "displayName": "HP Beach Resort",
-          "mapName": "HP Beach Resort"
-        }
-      ],
-      "typeName": "HP Beach Resort"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "HP DM",
-      "SpecificMaps": [
-        {
-          "displayName": "HP DM",
-          "mapName": "HP DM"
-        }
-      ],
-      "typeName": "HP DM"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "HP Hightops",
-      "SpecificMaps": [
-        {
-          "displayName": "HP Hightops",
-          "mapName": "HP Hightops"
-        }
-      ],
-      "typeName": "HP Hightops"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "HP.Hightops",
-      "SpecificMaps": [
-        {
-          "displayName": "HP.Hightops",
-          "mapName": "HP.Hightops"
-        }
-      ],
-      "typeName": "HP.Hightops"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
       "displayName": "Halo Burger",
       "SpecificMaps": [
         {
@@ -1016,8 +941,24 @@
       "displayName": "Hot Pursuit",
       "SpecificMaps": [
         {
-          "displayName": "Hot Pursuit",
-          "mapName": "Hot Pursuit"
+          "displayName": "EDG",
+          "mapName": "EDG Hot Pursuit"
+        },
+        {
+          "displayName": "Beach Resort",
+          "mapName": "HP Beach Resort"
+        },
+        {
+          "displayName": "DM",
+          "mapName": "HP DM"
+        },
+        {
+          "displayName": "Guardian",
+          "mapName": "HP Guardian"
+        },
+        {
+          "displayName": "Hightops",
+          "mapName": "HP Hightops"
         }
       ],
       "typeName": "Hot Pursuit"
