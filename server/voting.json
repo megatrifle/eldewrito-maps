@@ -86,6 +86,21 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
+      "displayName": "Basilisk Den",
+      "SpecificMaps": [
+          {
+              "displayName": "Basilisk Den",
+              "mapName": "Basilisk Den"
+          }
+      ],
+      "typeName": "Basilisk Den"
+  },
+  {
+      "commands": [
+          "Server.SprintEnabled 1",
+          "Server.AssassinationEnabled 0",
+          "Server.NumberOfTeams 2"
+      ],
       "displayName": "Drive! Rocketway",
       "SpecificMaps": [
         {
