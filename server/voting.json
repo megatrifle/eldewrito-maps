@@ -1021,8 +1021,8 @@
       "displayName": "King Slayer",
       "SpecificMaps": [
         {
-          "displayName": "King Slayer",
-          "mapName": "King Slayer"
+          "displayName": "Castle Siege",
+          "mapName": "Castle Siege"
         }
       ],
       "typeName": "King Slayer"
@@ -1577,7 +1577,7 @@
       "SpecificMaps": [
         {
           "displayName": "Swords of Fate",
-          "mapName": "Swords of Fate"
+          "mapName": "swords of fate"
         }
       ],
       "typeName": "Swords of Fate"
