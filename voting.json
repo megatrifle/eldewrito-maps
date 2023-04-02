@@ -116,8 +116,8 @@
       "displayName": "Frogger",
       "SpecificMaps": [
         {
-          "displayName": "Frogger",
-          "mapName": "Frogger"
+          "displayName": "Sandy Pond",
+          "mapName": "Sandy Pond"
         }
       ],
       "typeName": "Frogger"
@@ -251,8 +251,8 @@
       "displayName": "Pallet Wars",
       "SpecificMaps": [
         {
-          "displayName": "Pallet Wars",
-          "mapName": "Pallet Wars"
+          "displayName": "Palletfield",
+          "mapName": "Palletfield V2"
         }
       ],
       "typeName": "Pallet Wars"
