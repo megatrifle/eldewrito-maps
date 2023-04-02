@@ -101,21 +101,6 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Big Smoke Order",
-      "SpecificMaps": [
-        {
-          "displayName": "Big Smoke Order",
-          "mapName": "Big Smoke Order"
-        }
-      ],
-      "typeName": "Big Smoke Order"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
       "displayName": "Block Fort TKOH",
       "SpecificMaps": [
         {
@@ -184,21 +169,6 @@
         }
       ],
       "typeName": "Castle Wars"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Cerberus",
-      "SpecificMaps": [
-        {
-          "displayName": "Cerberus",
-          "mapName": "Cerberus"
-        }
-      ],
-      "typeName": "Cerberus"
     },
     {
       "commands": [
@@ -570,12 +540,20 @@
       "displayName": "Fatkid",
       "SpecificMaps": [
         {
-          "displayName": "Presidio v3",
-          "mapName": "Presidio v3"
+          "displayName": "Cerberus",
+          "mapName": "Cerberus"
+        },
+        {
+          "displayName": "Big Smoke Order",
+          "mapName": "Big Smoke Order"
         },
         {
           "displayName": "Indiana Jones",
           "mapName": "IndianaJonesv2"
+        },
+        {
+          "displayName": "Presidio v3",
+          "mapName": "Presidio v3"
         }
       ],
       "typeName": "Fatkid"
