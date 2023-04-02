@@ -86,14 +86,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Basilisk Den",
+      "displayName": "Basilisk",
       "SpecificMaps": [
           {
               "displayName": "Basilisk Den",
               "mapName": "Basilisk Den"
           }
       ],
-      "typeName": "Basilisk Den"
+      "typeName": "Basilisk"
   },
   {
       "commands": [
@@ -101,14 +101,14 @@
           "Server.AssassinationEnabled 0",
           "Server.NumberOfTeams 2"
       ],
-      "displayName": "Drive! Rocketway",
+      "displayName": "Drive!",
       "SpecificMaps": [
         {
-          "displayName": "Drive! Rocketway",
-          "mapName": "Drive! Rocketway"
+          "displayName": "Rocketway",
+          "mapName": "Rocketway"
         }
       ],
-      "typeName": "Drive! Rocketway"
+      "typeName": "Drive!"
     },
     {
       "commands": [
@@ -386,11 +386,11 @@
       "displayName": "Tournament",
       "SpecificMaps": [
         {
-          "displayName": "Tournament",
-          "mapName": "Tournament"
+          "displayName": "Tournament v1.1",
+          "mapName": "Tournament v1.1"
         }
       ],
-      "typeName": "Tournament"
+      "typeName": "Tournament 16ma"
     },
     {
       "commands": [
