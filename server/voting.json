@@ -116,14 +116,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Block Fort KOTH",
+      "displayName": "Block Fort TKOH",
       "SpecificMaps": [
         {
-          "displayName": "Block Fort KOTH",
-          "mapName": "Block Fort KOTH"
+          "displayName": "Block Fort",
+          "mapName": "Block Fort"
         }
       ],
-      "typeName": "Block Fort KOTH"
+      "typeName": "Block Fort TKOH"
     },
     {
       "commands": [
@@ -296,10 +296,10 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Cursed Ring V1",
+      "displayName": "Cursed Ring",
       "SpecificMaps": [
         {
-          "displayName": "Cursed Ring V1",
+          "displayName": "Cursed Ring",
           "mapName": "Cursed Ring V1"
         }
       ],
@@ -348,7 +348,7 @@
           "mapName": "Deck The Halls"
         }
       ],
-      "typeName": "Deck The Halls"
+      "typeName": "DTH"
     },
     {
       "commands": [
