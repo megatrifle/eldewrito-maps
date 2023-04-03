@@ -716,21 +716,6 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Friendship Pit",
-      "SpecificMaps": [
-        {
-          "displayName": "Friendship Pit",
-          "mapName": "Friendship Pit"
-        }
-      ],
-      "typeName": "Friendship Pit"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
       "displayName": "Frogger",
       "SpecificMaps": [
         {
@@ -794,8 +779,12 @@
       "displayName": "Gladiators",
       "SpecificMaps": [
         {
-          "displayName": "Gladiators",
-          "mapName": "Gladiators"
+          "displayName": "Friendship Pit",
+          "mapName": "Friendship Pit"
+        },
+        {
+          "displayName": "Maximus",
+          "mapName": "Maximus"
         }
       ],
       "typeName": "Gladiators"
@@ -1055,21 +1044,6 @@
         }
       ],
       "typeName": "Man Cannon"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Maximus",
-      "SpecificMaps": [
-        {
-          "displayName": "Maximus",
-          "mapName": "Maximus"
-        }
-      ],
-      "typeName": "Maximus"
     },
     {
       "commands": [
