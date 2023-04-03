@@ -869,10 +869,10 @@
       "SpecificMaps": [
         {
           "displayName": "Halo Burger",
-          "mapName": "Halo Burger"
+          "mapName": "Halo Burger 1.1"
         }
       ],
-      "typeName": "Halo Burger"
+      "typeName": "Halo Burger 1.1"
     },
     {
       "commands": [
@@ -1346,14 +1346,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Schlong Castle",
+      "displayName": "Schlosscrieg",
       "SpecificMaps": [
         {
-          "displayName": "Schlong Castle",
-          "mapName": "Schlong Castle"
+          "displayName": "Covenant Castle",
+          "mapName": "Covenant Castle"
         }
       ],
-      "typeName": "Schlong Castle"
+      "typeName": "Schlosscrieg"
     },
     {
       "commands": [
@@ -1409,8 +1409,8 @@
       "displayName": "Space Wars",
       "SpecificMaps": [
         {
-          "displayName": "Space Wars",
-          "mapName": "Space Wars"
+          "displayName": "Space Base",
+          "mapName": "Space Base"
         }
       ],
       "typeName": "Space Wars"
@@ -1661,14 +1661,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Trash Compactor",
+      "displayName": "Garbage Man",
       "SpecificMaps": [
         {
           "displayName": "Trash Compactor",
           "mapName": "Trash Compactor"
         }
       ],
-      "typeName": "Trash Compactor"
+      "typeName": "Garbage Man"
     },
     {
       "commands": [
