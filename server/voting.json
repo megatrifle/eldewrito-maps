@@ -56,14 +56,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Altiorem",
+      "displayName": "Vampire Slayer",
       "SpecificMaps": [
         {
           "displayName": "Altiorem",
-          "mapName": "Altiorem"
+          "mapName": "Altiorem V1.1"
         }
       ],
-      "typeName": "Altiorem"
+      "typeName": "Vampire v0.9"
     },
     {
       "commands": [
@@ -385,7 +385,7 @@
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
+        "Server.NumberOfTeams 8", "Server.TeamSize 2"
       ],
       "displayName": "Drag Race",
       "SpecificMaps": [
@@ -525,8 +525,8 @@
       "displayName": "Exterminator",
       "SpecificMaps": [
         {
-          "displayName": "Exterminator",
-          "mapName": "Exterminator"
+          "displayName": "Infested House",
+          "mapName": "InfestedHousev2"
         }
       ],
       "typeName": "Exterminator"
@@ -564,7 +564,7 @@
     },
     {
       "commands": [
-        "Server.SprintEnabled 1",
+        "Server.SprintEnabled 0",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
@@ -944,8 +944,8 @@
       "displayName": "Ice Cream Man",
       "SpecificMaps": [
         {
-          "displayName": "Ice Cream Man",
-          "mapName": "Ice Cream Man"
+          "displayName": "Kiddie Lane",
+          "mapName": "Kiddie Lane"
         }
       ],
       "typeName": "Ice Cream Man"
@@ -1196,14 +1196,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Outbreak City",
+      "displayName": "Godzilla",
       "SpecificMaps": [
         {
           "displayName": "Outbreak City",
-          "mapName": "Outbreak City"
+          "mapName": "Outbreak City 3"
         }
       ],
-      "typeName": "Outbreak City"
+      "typeName": "Godzilla"
     },
     {
       "commands": [
@@ -1271,14 +1271,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "R6 Siege",
+      "displayName": "Siege Mode",
       "SpecificMaps": [
         {
-          "displayName": "R6 Siege",
-          "mapName": "R6 Siege"
+          "displayName": "House Siege 1B",
+          "mapName": "House Siege 1B"
         }
       ],
-      "typeName": "R6 Siege"
+      "typeName": "Siege Mode"
     },
     {
       "commands": [
@@ -1589,8 +1589,8 @@
       "displayName": "Termites",
       "SpecificMaps": [
         {
-          "displayName": "Termites",
-          "mapName": "Termites"
+          "displayName": "The Woodshop",
+          "mapName": "The Woodshop"
         }
       ],
       "typeName": "Termites"
