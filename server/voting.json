@@ -385,7 +385,8 @@
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8", "Server.TeamSize 2"
+        "Server.NumberOfTeams 8",
+        "Server.TeamSize 2"
       ],
       "displayName": "Drag Race",
       "SpecificMaps": [
@@ -768,21 +769,6 @@
         }
       ],
       "typeName": "Gauntlet"
-    },
-    {
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Get Out",
-      "SpecificMaps": [
-        {
-          "displayName": "Get Out",
-          "mapName": "Get Out"
-        }
-      ],
-      "typeName": "Get Out"
     },
     {
       "commands": [
@@ -1706,14 +1692,14 @@
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Warehouse v1.5",
+      "displayName": "Get Out",
       "SpecificMaps": [
         {
-          "displayName": "Warehouse v1.5",
-          "mapName": "Warehouse v1.5"
+          "displayName": "The Warehouse",
+          "mapName": "The Warehouse"
         }
       ],
-      "typeName": "Warehouse v1.5"
+      "typeName": "Get Out"
     },
     {
       "commands": [
