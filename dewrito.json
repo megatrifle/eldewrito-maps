@@ -35,7 +35,8 @@
       "submitUrls":[
          "http://ed.thebeerkeg.net/server/submit",
          "http://thebeerkeg.net/submit.php",
-         "http://new.halostats.click/api/submit"
+         "http://new.halostats.click/api/submit",
+         "http://stat-endpoint.zgaf.io/api_v1/stats"
       ],
       "playerInfo":"http://thebeerkeg.net/stats.php"
    },
