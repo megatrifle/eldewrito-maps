@@ -206,82 +206,6 @@
       "Server.NumberOfTeams 2",
       "Server.SprintEnabled 1"
     ],
-    "displayName": "Cursed Fatkid",
-    "SpecificMaps": [
-      {
-        "displayName": "Cursed Fatkid",
-        "mapName": "Cursed Fatkid"
-      }
-    ],
-    "typeName": "Cursed Fatkid"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Cursed Frogger",
-    "SpecificMaps": [
-      {
-        "displayName": "Cursed Frogger",
-        "mapName": "Cursed Frogger"
-      }
-    ],
-    "typeName": "Cursed Frogger"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Cursed HP",
-    "SpecificMaps": [
-      {
-        "displayName": "EDG",
-        "mapName": "EDG Hot Pursuit"
-      },
-      {
-        "displayName": "Beach Resort",
-        "mapName": "HP Beach Resort"
-      },
-      {
-        "displayName": "DM",
-        "mapName": "HP DM"
-      },
-      {
-        "displayName": "Guardian",
-        "mapName": "HP Guardian"
-      },
-      {
-        "displayName": "Hightops",
-        "mapName": "HP Hightops"
-      }
-    ],
-    "typeName": "Cursed HP"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Cursed Ring",
-    "SpecificMaps": [
-      {
-        "displayName": "Cursed Ring",
-        "mapName": "Cursed Ring V1"
-      }
-    ],
-    "typeName": "Cursed Ring V1"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
     "displayName": "Deck The Halls",
     "SpecificMaps": [
       {
@@ -521,28 +445,13 @@
     "commands": [
       "Server.AssassinationEnabled 0",
       "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 0"
-    ],
-    "displayName": "FFA Fiesta",
-    "SpecificMaps": [
-      {
-        "displayName": "Fiesta Hangar",
-        "mapName": "Fiesta Hangar"
-      }
-    ],
-    "typeName": "FFA Fiesta"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
       "Server.SprintEnabled 1"
     ],
     "displayName": "FFA Slayer",
     "SpecificMaps": [
       {
-        "displayName": "Guardian",
-        "mapName": "guardian"
+        "displayName": "Fiesta Hangar",
+        "mapName": "Fiesta Hangar"
       },
       {
         "displayName": "H1 Hang em High",
@@ -908,37 +817,6 @@
       }
     ],
     "typeName": "Hog Of The Hill"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Hot Pursuit",
-    "SpecificMaps": [
-      {
-        "displayName": "EDG",
-        "mapName": "EDG Hot Pursuit"
-      },
-      {
-        "displayName": "Beach Resort",
-        "mapName": "HP Beach Resort"
-      },
-      {
-        "displayName": "DM",
-        "mapName": "HP DM"
-      },
-      {
-        "displayName": "Guardian",
-        "mapName": "HP Guardian"
-      },
-      {
-        "displayName": "Hightops",
-        "mapName": "HP Hightops"
-      }
-    ],
-    "typeName": "Hot Pursuit"
   },
   {
     "commands": [
@@ -1539,36 +1417,6 @@
       }
     ],
     "typeName": "Swords of Fate"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Team KOTH",
-    "SpecificMaps": [
-      {
-        "displayName": "Team KOTH",
-        "mapName": "Team KOTH"
-      }
-    ],
-    "typeName": "Team KOTH"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Team Snipers",
-    "SpecificMaps": [
-      {
-        "displayName": "Guardian",
-        "mapName": "guardian"
-      }
-    ],
-    "typeName": "Team Snipers"
   },
   {
     "commands": [
