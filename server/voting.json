@@ -405,8 +405,8 @@
     "displayName": "Epidemic",
     "SpecificMaps": [
       {
-        "displayName": "Epidemic",
-        "mapName": "Epidemic"
+        "displayName": "Undead Pit",
+        "mapName": "Undead Pit V2"
       }
     ],
     "typeName": "Epidemic"
@@ -1049,14 +1049,14 @@
       "Server.NumberOfTeams 2",
       "Server.SprintEnabled 1"
     ],
-    "displayName": "Omega Journey 3",
+    "displayName": "Fat Escape",
     "SpecificMaps": [
       {
         "displayName": "Omega Journey 3",
         "mapName": "Omega Journey 3"
       }
     ],
-    "typeName": "Omega Journey 3"
+    "typeName": "Fat Escape"
   },
   {
     "commands": [
@@ -1522,21 +1522,6 @@
       }
     ],
     "typeName": "Wacky Race"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Warthog Run",
-    "SpecificMaps": [
-      {
-        "displayName": "Warthog Run",
-        "mapName": "Warthog Run"
-      }
-    ],
-    "typeName": "Warthog Run"
   },
   {
     "commands": [
