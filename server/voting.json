@@ -50,383 +50,398 @@
     }
   ],
   "Types": [
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 4",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Block Fort TKOH",
-    "SpecificMaps": [
-      {
-        "displayName": "Block Fort",
-        "mapName": "Block Fort"
-      }
-    ],
-    "typeName": "Block Fort TKOH"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Run",
-    "SpecificMaps": [
-      {
-        "displayName": "Vietcong",
-        "mapName": "Vietcong"
-      }
-    ],
-    "typeName": "China Square"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Deck The Halls",
-    "SpecificMaps": [
-      {
-        "displayName": "Deck The Halls",
-        "mapName": "Deck The Halls"
-      }
-    ],
-    "typeName": "DTH"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Death Run",
-    "SpecificMaps": [
-      {
-        "displayName": "Hall of Death",
-        "mapName": "Hall of Death"
-      }
-    ],
-    "typeName": "Death Run"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Death Run v2",
-    "SpecificMaps": [
-      {
-        "displayName": "Death Run v2",
-        "mapName": "Death Run v2"
-      }
-    ],
-    "typeName": "Death Run v2"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Demo Derby",
-    "SpecificMaps": [
-      {
-        "displayName": "Demo Derby",
-        "mapName": "Demo Derby 1.3"
-      }
-    ],
-    "typeName": "Demo Derby"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 8",
-      "Server.SprintEnabled 1",
-      "Server.TeamSize 2"
-    ],
-    "displayName": "Drag Race",
-    "SpecificMaps": [
-      {
-        "displayName": "Drag Race",
-        "mapName": "Drag Race"
-      }
-    ],
-    "typeName": "Drag Race"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Drive!",
-    "SpecificMaps": [
-      {
-        "displayName": "Rocketway",
-        "mapName": "Rocketway"
-      }
-    ],
-    "typeName": "Drive!"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Epidemic",
-    "SpecificMaps": [
-      {
-        "displayName": "Undead Pit",
-        "mapName": "Undead Pit V2"
-      }
-    ],
-    "typeName": "Epidemic"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "FFA Slayer",
-    "SpecificMaps": [
-      {
-        "displayName": "Fiesta Hangar",
-        "mapName": "Fiesta Hangar"
-      },
-      {
-        "displayName": "H1 Hang em High",
-        "mapName": "H1 Hang em High"
-      },
-      {
-        "displayName": "H3 Citadel",
-        "mapName": "H3 Citadel"
-      },
-      {
-        "displayName": "H3 Construct",
-        "mapName": "H3 Construct"
-      }
-    ],
-    "typeName": "FFA Slayer"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Fat Kid Origins",
-    "SpecificMaps": [
-      {
-        "displayName": "Fat Kid Origins",
-        "mapName": "Fat Kid Origins"
-      }
-    ],
-    "typeName": "Fat Kid Origins"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Fatkid",
-    "SpecificMaps": [
-      {
-        "displayName": "Cerberus",
-        "mapName": "Cerberus"
-      },
-      {
-        "displayName": "Big Smoke Order",
-        "mapName": "Big Smoke Order"
-      },
-      {
-        "displayName": "FatKidRevenge",
-        "mapName": "FatKidRevenge"
-      },
-      {
-        "displayName": "Indiana Jones",
-        "mapName": "IndianaJonesv2"
-      },
-      {
-        "displayName": "Presidio v3",
-        "mapName": "Presidio v3"
-      }
-    ],
-    "typeName": "Fatkid"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Frogger",
-    "SpecificMaps": [
-      {
-        "displayName": "Sandy Pond",
-        "mapName": "Sandy Pond"
-      }
-    ],
-    "typeName": "Frogger"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Garbage Man",
-    "SpecificMaps": [
-      {
-        "displayName": "Trash Compactor",
-        "mapName": "Trash Compactor"
-      }
-    ],
-    "typeName": "Garbage Man"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Get Out",
-    "SpecificMaps": [
-      {
-        "displayName": "The Warehouse",
-        "mapName": "The Warehouse"
-      }
-    ],
-    "typeName": "Get Out"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Ghostbusters!",
-    "SpecificMaps": [
-      {
-        "displayName": "Ghostbusters!",
-        "mapName": "Ghostbusters!"
-      }
-    ],
-    "typeName": "Ghostbusters!"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Gladiators",
-    "SpecificMaps": [
-      {
-        "displayName": "Friendship Pit",
-        "mapName": "Friendship Pit"
-      },
-      {
-        "displayName": "Maximus",
-        "mapName": "Maximus"
-      }
-    ],
-    "typeName": "Gladiators"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Godzilla",
-    "SpecificMaps": [
-      {
-        "displayName": "Outbreak City",
-        "mapName": "Outbreak City 3"
-      }
-    ],
-    "typeName": "Godzilla"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Halo Burger",
-    "SpecificMaps": [
-      {
-        "displayName": "Halo Burger",
-        "mapName": "Halo Burger 1.1"
-      }
-    ],
-    "typeName": "Halo Burger 1.1"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Halo Ring V3",
-    "SpecificMaps": [
-      {
-        "displayName": "Halo Ring V3",
-        "mapName": "Halo Ring V3"
-      }
-    ],
-    "typeName": "Halo Ring V3"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Hog Of The Hill",
-    "SpecificMaps": [
-      {
-        "displayName": "Hog Of The Hill",
-        "mapName": "Hog Of The Hill"
-      }
-    ],
-    "typeName": "Hog Of The Hill"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Hot Wheels",
-    "SpecificMaps": [
-      {
-        "displayName": "Toy Story",
-        "mapName": "Toy Story"
-      }
-    ],
-    "typeName": "Hot Wheels"
-  },
-  {
-    "commands": [
-      "Server.AssassinationEnabled 0",
-      "Server.NumberOfTeams 2",
-      "Server.SprintEnabled 1"
-    ],
-    "displayName": "Ice Cream Man",
-    "SpecificMaps": [
-      {
-        "displayName": "Kiddie Lane",
-        "mapName": "Kiddie Lane"
-      }
-    ],
-    "typeName": "Ice Cream Man"
-  }
-]
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "SWeAT",
+      "SpecificMaps": [
+        {
+          "displayName": "Tip Snippers",
+          "mapName": "Tip Snippers"
+        }
+      ],
+      "typeName": "SWeAT"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 4",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Block Fort TKOH",
+      "SpecificMaps": [
+        {
+          "displayName": "Block Fort",
+          "mapName": "Block Fort"
+        }
+      ],
+      "typeName": "Block Fort TKOH"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Run",
+      "SpecificMaps": [
+        {
+          "displayName": "Vietcong",
+          "mapName": "Vietcong"
+        }
+      ],
+      "typeName": "China Square"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Deck The Halls",
+      "SpecificMaps": [
+        {
+          "displayName": "Deck The Halls",
+          "mapName": "Deck The Halls"
+        }
+      ],
+      "typeName": "DTH"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Death Run",
+      "SpecificMaps": [
+        {
+          "displayName": "Hall of Death",
+          "mapName": "Hall of Death"
+        }
+      ],
+      "typeName": "Death Run"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Death Run v2",
+      "SpecificMaps": [
+        {
+          "displayName": "Death Run v2",
+          "mapName": "Death Run v2"
+        }
+      ],
+      "typeName": "Death Run v2"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Rent A Car",
+      "SpecificMaps": [
+        {
+          "displayName": "Demo Derby",
+          "mapName": "Demo Derby 1.3"
+        }
+      ],
+      "typeName": "Rent A Car"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8",
+        "Server.SprintEnabled 1",
+        "Server.TeamSize 2"
+      ],
+      "displayName": "Drag Race",
+      "SpecificMaps": [
+        {
+          "displayName": "Drag Race",
+          "mapName": "Drag Race"
+        }
+      ],
+      "typeName": "Drag Race"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Drive!",
+      "SpecificMaps": [
+        {
+          "displayName": "Rocketway",
+          "mapName": "Rocketway"
+        }
+      ],
+      "typeName": "Drive!"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Epidemic",
+      "SpecificMaps": [
+        {
+          "displayName": "Undead Pit",
+          "mapName": "Undead Pit V2"
+        }
+      ],
+      "typeName": "Epidemic"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "FFA Slayer",
+      "SpecificMaps": [
+        {
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
+        },
+        {
+          "displayName": "H1 Hang em High",
+          "mapName": "H1 Hang em High"
+        },
+        {
+          "displayName": "H3 Citadel",
+          "mapName": "H3 Citadel"
+        },
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        }
+      ],
+      "typeName": "FFA Slayer"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Fat Kid Origins",
+      "SpecificMaps": [
+        {
+          "displayName": "Fat Kid Origins",
+          "mapName": "Fat Kid Origins"
+        }
+      ],
+      "typeName": "Fat Kid Origins"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Fatkid",
+      "SpecificMaps": [
+        {
+          "displayName": "Cerberus",
+          "mapName": "Cerberus"
+        },
+        {
+          "displayName": "Big Smoke Order",
+          "mapName": "Big Smoke Order"
+        },
+        {
+          "displayName": "FatKidRevenge",
+          "mapName": "FatKidRevenge"
+        },
+        {
+          "displayName": "Indiana Jones",
+          "mapName": "IndianaJonesv2"
+        },
+        {
+          "displayName": "Presidio v3",
+          "mapName": "Presidio v3"
+        }
+      ],
+      "typeName": "Fatkid"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Frogger",
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Sandy Pond"
+        }
+      ],
+      "typeName": "Frogger"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Garbage Man",
+      "SpecificMaps": [
+        {
+          "displayName": "Trash Compactor",
+          "mapName": "Trash Compactor"
+        }
+      ],
+      "typeName": "Garbage Man"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Get Out",
+      "SpecificMaps": [
+        {
+          "displayName": "The Warehouse",
+          "mapName": "The Warehouse"
+        }
+      ],
+      "typeName": "Get Out"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Ghostbusters!",
+      "SpecificMaps": [
+        {
+          "displayName": "Ghostbusters!",
+          "mapName": "Ghostbusters!"
+        }
+      ],
+      "typeName": "Ghostbusters!"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Gladiators",
+      "SpecificMaps": [
+        {
+          "displayName": "Friendship Pit",
+          "mapName": "Friendship Pit"
+        },
+        {
+          "displayName": "Maximus",
+          "mapName": "Maximus"
+        }
+      ],
+      "typeName": "Gladiators"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Godzilla",
+      "SpecificMaps": [
+        {
+          "displayName": "Outbreak City",
+          "mapName": "Outbreak City 3"
+        }
+      ],
+      "typeName": "Godzilla"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Halo Burger",
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Burger",
+          "mapName": "Halo Burger 1.1"
+        }
+      ],
+      "typeName": "Halo Burger 1.1"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Halo Ring V3",
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Ring V3",
+          "mapName": "Halo Ring V3"
+        }
+      ],
+      "typeName": "Halo Ring V3"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Hog Of The Hill",
+      "SpecificMaps": [
+        {
+          "displayName": "Hog Of The Hill",
+          "mapName": "Hog Of The Hill"
+        }
+      ],
+      "typeName": "Hog Of The Hill"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Hot Wheels",
+      "SpecificMaps": [
+        {
+          "displayName": "Toy Story",
+          "mapName": "Toy Story"
+        }
+      ],
+      "typeName": "Hot Wheels"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Ice Cream Man",
+      "SpecificMaps": [
+        {
+          "displayName": "Kiddie Lane",
+          "mapName": "Kiddie Lane"
+        }
+      ],
+      "typeName": "Ice Cream Man"
+    }
+  ]
 }
