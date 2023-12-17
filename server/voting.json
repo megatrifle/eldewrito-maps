@@ -56,14 +56,14 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "SWeAT",
+      "displayName": "Team Snipers",
       "SpecificMaps": [
         {
           "displayName": "Tip Snippers",
           "mapName": "Tip Snippers"
         }
       ],
-      "typeName": "SWeAT"
+      "typeName": "Team Snipers"
     },
     {
       "commands": [
