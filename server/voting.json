@@ -72,6 +72,21 @@
     {
       "commands": [
         "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Amethyst Zombiz",
+      "SpecificMaps": [
+        {
+          "displayName": "Amethystback",
+          "mapName": "Amethystback I"
+        }
+      ],
+      "typeName": "Amethyst Zombiz"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 4",
         "Server.SprintEnabled 1"
       ],
@@ -352,21 +367,6 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Godzilla",
-      "SpecificMaps": [
-        {
-          "displayName": "Outbreak City",
-          "mapName": "Outbreak City 3"
-        }
-      ],
-      "typeName": "Godzilla"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Halo Burger",
       "SpecificMaps": [
         {
@@ -374,7 +374,7 @@
           "mapName": "Halo Burger 1.1"
         }
       ],
-      "typeName": "Halo Burger 1.1"
+      "typeName": "Halo Burger"
     },
     {
       "commands": [
