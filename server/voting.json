@@ -87,6 +87,44 @@
     {
       "commands": [
         "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Infection",
+      "SpecificMaps": [
+        {
+          "displayName": "Mole Excavating",
+          "mapName": "Mole Excavating"
+        }
+      ],
+      "typeName": "Infection2"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Backrooms",
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Rooms",
+          "mapName": "halo rooms"
+        },
+        {
+          "displayName": "Halo Rooms Dark",
+          "mapName": "halo rooms dark"
+        },
+        {
+          "displayName": "Halo Rooms Dark2",
+          "mapName": "halo rooms drk2"
+        }
+      ],
+      "typeName": "Backrooms"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 4",
         "Server.SprintEnabled 1"
       ],
@@ -296,21 +334,6 @@
         }
       ],
       "typeName": "Frogger"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Garbage Man",
-      "SpecificMaps": [
-        {
-          "displayName": "Trash Compactor",
-          "mapName": "Trash Compactor"
-        }
-      ],
-      "typeName": "Garbage Man"
     },
     {
       "commands": [
