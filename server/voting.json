@@ -443,21 +443,6 @@
         }
       ],
       "typeName": "Hot Wheels"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Ice Cream Man",
-      "SpecificMaps": [
-        {
-          "displayName": "Kiddie Lane",
-          "mapName": "Kiddie Lane"
-        }
-      ],
-      "typeName": "Ice Cream Man"
     }
   ]
 }
