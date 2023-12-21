@@ -192,8 +192,12 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Replirace",
+      "displayName": "Reace",
       "SpecificMaps": [
+        {
+          "displayName": "Grace St. Race",
+          "mapName": "Grace St. Race"
+        },
         {
           "displayName": "Double!!take",
           "mapName": "Double!!take"
@@ -209,21 +213,6 @@
         {
           "displayName": "MacrochelyRace",
           "mapName": "MacrochelyRace"
-        }
-      ],
-      "typeName": "Replirace"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Reace",
-      "SpecificMaps": [
-        {
-          "displayName": "Grace St. Race",
-          "mapName": "Grace St. Race"
         }
       ],
       "typeName": "Reace"
