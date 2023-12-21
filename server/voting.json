@@ -93,6 +93,10 @@
       "displayName": "Infection",
       "SpecificMaps": [
         {
+          "displayName": "Snowhole I",
+          "mapName": "Snowhole I"
+        },
+        {
           "displayName": "Mole Excavating",
           "mapName": "Mole Excavating"
         }
@@ -110,7 +114,18 @@
         {
           "displayName": "Halo Rooms",
           "mapName": "halo rooms"
-        },
+        }
+      ],
+      "typeName": "Backrooms"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Backrooms",
+      "SpecificMaps": [
         {
           "displayName": "Halo Rooms Dark",
           "mapName": "halo rooms dark"
@@ -120,22 +135,26 @@
           "mapName": "halo rooms drk2"
         }
       ],
-      "typeName": "Backrooms"
+      "typeName": "backroom2"
     },
     {
       "commands": [
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 4",
+        "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Block Fort TKOH",
+      "displayName": "Duhcunt",
       "SpecificMaps": [
         {
-          "displayName": "Block Fort",
-          "mapName": "Block Fort"
+          "displayName": "HeadOn_A",
+          "mapName": "HeadOn_A"
+        },
+        {
+          "displayName": "HeadOn_B",
+          "mapName": "HeadOn_B"
         }
       ],
-      "typeName": "Block Fort TKOH"
+      "typeName": "Duhcunt"
     },
     {
       "commands": [
