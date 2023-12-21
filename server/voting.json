@@ -192,14 +192,30 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Run 2 Da Ocean!",
+      "displayName": "Replirace",
       "SpecificMaps": [
         {
-          "displayName": "Run 2 Da Ocean!",
-          "mapName": "Run 2 Da Ocean!"
+          "displayName": "Double!!take",
+          "mapName": "Double!!take"
+        },
+        {
+          "displayName": "Grace St. Race",
+          "mapName": "Grace St. Race"
+        },
+        {
+          "displayName": "Jade Race",
+          "mapName": "Jade Race"
+        },
+        {
+          "displayName": "LeavingTheParty",
+          "mapName": "LeavingTheParty"
+        },
+        {
+          "displayName": "MacrochelyRace",
+          "mapName": "MacrochelyRace"
         }
       ],
-      "typeName": "Run 2 Da Ocean!"
+      "typeName": "Replirace"
     },
     {
       "commands": [
@@ -207,14 +223,14 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Death Run v2",
+      "displayName": "Race to the RAT",
       "SpecificMaps": [
         {
-          "displayName": "Death Run v2",
-          "mapName": "Death Run v2"
+          "displayName": "Race2TheRatRoom",
+          "mapName": "Race2TheRatRoom"
         }
       ],
-      "typeName": "Death Run v2"
+      "typeName": "Race to the RAT"
     },
     {
       "commands": [
@@ -285,10 +301,6 @@
       ],
       "displayName": "FFA Slayer",
       "SpecificMaps": [
-        {
-          "displayName": "Fiesta Hangar",
-          "mapName": "Fiesta Hangar"
-        },
         {
           "displayName": "H1 Hang em High",
           "mapName": "H1 Hang em High"
