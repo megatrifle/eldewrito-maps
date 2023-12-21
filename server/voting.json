@@ -192,14 +192,14 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Death Run",
+      "displayName": "Run 2 Da Ocean!",
       "SpecificMaps": [
         {
-          "displayName": "Hall of Death",
-          "mapName": "Hall of Death"
+          "displayName": "Run 2 Da Ocean!",
+          "mapName": "Run 2 Da Ocean!"
         }
       ],
-      "typeName": "Death Run"
+      "typeName": "Run 2 Da Ocean!"
     },
     {
       "commands": [
