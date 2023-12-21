@@ -199,10 +199,6 @@
           "mapName": "Double!!take"
         },
         {
-          "displayName": "Grace St. Race",
-          "mapName": "Grace St. Race"
-        },
-        {
           "displayName": "Jade Race",
           "mapName": "Jade Race"
         },
@@ -216,6 +212,21 @@
         }
       ],
       "typeName": "Replirace"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Reace",
+      "SpecificMaps": [
+        {
+          "displayName": "Grace St. Race",
+          "mapName": "Grace St. Race"
+        }
+      ],
+      "typeName": "Reace"
     },
     {
       "commands": [
