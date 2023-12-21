@@ -436,11 +436,15 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Halo Ring V3",
+      "displayName": "Halo Ring",
       "SpecificMaps": [
         {
           "displayName": "Halo Ring V3",
           "mapName": "Halo Ring V3"
+        },
+        {
+          "displayName": "Crevasse race",
+          "mapName": "Crevasse race"
         }
       ],
       "typeName": "Halo Ring V3"
