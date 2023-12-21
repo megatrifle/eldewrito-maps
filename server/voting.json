@@ -341,15 +341,26 @@
           "mapName": "FatKidRevenge"
         },
         {
-          "displayName": "Indiana Jones",
-          "mapName": "IndianaJonesv2"
-        },
-        {
           "displayName": "Presidio v3",
           "mapName": "Presidio v3"
         }
       ],
       "typeName": "Fatkid"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Fat Escape",
+      "SpecificMaps": [
+        {
+          "displayName": "Indiana Jones",
+          "mapName": "IndianaJonesv2"
+        }
+      ],
+      "typeName": "Fat Escape"
     },
     {
       "commands": [
