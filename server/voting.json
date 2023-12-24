@@ -370,7 +370,7 @@
         }
       ],
       "typeName": "FFA Slayer"
-    },,
+    },
     {
       "commands": [
         "Server.AssassinationEnabled 0",
