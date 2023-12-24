@@ -370,6 +370,65 @@
         }
       ],
       "typeName": "FFA Slayer"
+    },,
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "FFA Fiesta",
+      "SpecificMaps": [
+        {
+          "displayName": "H1 Hang em High",
+          "mapName": "H1 Hang em High"
+        },
+        {
+          "displayName": "H3 Citadel",
+          "mapName": "H3 Citadel"
+        },
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        },
+        {
+          "displayName": "Azama Sun Beach",
+          "mapName": "Azama Sun Beach"
+        },
+        {
+          "displayName": "Boxed Ground",
+          "mapName": "Boxed Ground"
+        },
+        {
+          "displayName": "Crunch Town V2",
+          "mapName": "Crunch Town V2"
+        },
+        {
+          "displayName": "Psychedelic Sea",
+          "mapName": "Psychedelic Sea"
+        },
+        {
+          "displayName": "Redbox",
+          "mapName": "Redbox"
+        },
+        {
+          "displayName": "TeardownRemake2",
+          "mapName": "TeardownRemake2"
+        },
+        {
+          "displayName": "CODMW2 RustV1.9",
+          "mapName": "CODMW2 RustV1.9"
+        },
+        {
+          "displayName": "Space Map fuked",
+          "mapName": "Space Map fuked"
+        },
+        {
+          "displayName": "Vamm Base(cool)",
+          "mapName": "Vamm Base(cool)"
+        }
+      ],
+      "typeName": "FFA Fiesta"
     },
     {
       "commands": [
