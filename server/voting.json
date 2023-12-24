@@ -629,14 +629,29 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Hot Choppers",
+      "displayName": "One Flag CTF",
       "SpecificMaps": [
         {
-          "displayName": "HotChoppedBuns",
-          "mapName": "HotChoppedBuns"
+          "displayName": "de_dust2 COOLER",
+          "mapName": "de_dust2 COOLER"
         }
       ],
-      "typeName": "Hot Choppers"
+      "typeName": "One Flag CTF"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Doom Slayer",
+      "SpecificMaps": [
+        {
+          "displayName": "Doom 2 Map 02",
+          "mapName": "Doom 2 Map 02"
+        }
+      ],
+      "typeName": "Doom Slayer"
     }
   ]
 }
