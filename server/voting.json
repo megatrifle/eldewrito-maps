@@ -99,6 +99,14 @@
         {
           "displayName": "Mole Excavating",
           "mapName": "Mole Excavating"
+        },
+        {
+          "displayName": "Darkvillages",
+          "mapName": "Darkvillages"
+        },
+        {
+          "displayName": "DarkvillagesDay",
+          "mapName": "DarkvillagesDay"
         }
       ],
       "typeName": "Infection2"
@@ -124,7 +132,7 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Backrooms",
+      "displayName": "Backrooms 2",
       "SpecificMaps": [
         {
           "displayName": "Halo Rooms Dark",
@@ -136,6 +144,21 @@
         }
       ],
       "typeName": "backroom 2"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Backrooms 3",
+      "SpecificMaps": [
+        {
+          "displayName": "Backrooms 3",
+          "mapName": "Backrooms 3"
+        }
+      ],
+      "typeName": "backroom 3"
     },
     {
       "commands": [
@@ -201,10 +224,6 @@
         {
           "displayName": "Double!!take",
           "mapName": "Double!!take"
-        },
-        {
-          "displayName": "Jade Race",
-          "mapName": "Jade Race"
         },
         {
           "displayName": "LeavingTheParty",
@@ -456,6 +475,14 @@
         {
           "displayName": "Crevasse race",
           "mapName": "Crevasse race"
+        },
+        {
+          "displayName": "Baba Race",
+          "mapName": "Baba Race"
+        },
+        {
+          "displayName": "Jade Race",
+          "mapName": "Jade Race"
         }
       ],
       "typeName": "Halo Ring V3"
@@ -489,6 +516,36 @@
         }
       ],
       "typeName": "Hot Wheels"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Forkhunt",
+      "SpecificMaps": [
+        {
+          "displayName": "Fork Tunnel fuc",
+          "mapName": "Fork Tunnel fuc"
+        }
+      ],
+      "typeName": "Forkhunt"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Hot Choppers",
+      "SpecificMaps": [
+        {
+          "displayName": "HotChoppedBuns",
+          "mapName": "HotChoppedBuns"
+        }
+      ],
+      "typeName": "Hot Choppers"
     }
   ]
 }
