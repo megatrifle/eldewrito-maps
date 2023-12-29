@@ -418,6 +418,10 @@
         {
           "displayName": "Vamm Base(cool)",
           "mapName": "Vamm Base(cool)"
+        },
+        {
+          "displayName": "de_dust2 COOLER",
+          "mapName": "de_dust2 COOLER"
         }
       ],
       "typeName": "FFA Fiesta"
@@ -608,7 +612,7 @@
       "commands": [
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
+        "Server.SprintEnabled 0"
       ],
       "displayName": "Forkhunt",
       "SpecificMaps": [
