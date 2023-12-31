@@ -619,14 +619,25 @@
       "commands": [
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
+        "Server.SprintEnabled 0"
       ],
       "displayName": "Parkour",
       "SpecificMaps": [
         {
           "displayName": "Final Jump",
           "mapName": "Final Jump"
-        },
+        }
+      ],
+      "typeName": "Run"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Parkour",
+      "SpecificMaps": [
         {
           "displayName": "4D Construction",
           "mapName": "4D Construction"
@@ -662,13 +673,9 @@
         {
           "displayName": "The Red Ocean",
           "mapName": "The Red Ocean"
-        },
-        {
-          "displayName": "Final Jump",
-          "mapName": "Final Jump"
         }
       ],
-      "typeName": "Run"
+      "typeName": "Run s2"
     },
     {
       "commands": [
