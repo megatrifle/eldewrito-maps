@@ -56,6 +56,100 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
+      "displayName": "FFA Slayer",
+      "SpecificMaps": [
+        {
+          "displayName": "H1 Hang em High",
+          "mapName": "H1 Hang em High"
+        },
+        {
+          "displayName": "H3 Citadel",
+          "mapName": "H3 Citadel 1.0"
+        },
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        },
+        {
+          "displayName": "Azama Sun Beach",
+          "mapName": "Azama Sun Beach"
+        }
+      ],
+      "typeName": "FFA Slayer"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "FFA Fiesta",
+      "SpecificMaps": [
+        {
+          "displayName": "H1 Hang em High",
+          "mapName": "H1 Hang em High"
+        },
+        {
+          "displayName": "H3 Citadel",
+          "mapName": "H3 Citadel 1.0"
+        },
+        {
+          "displayName": "H3 Construct",
+          "mapName": "H3 Construct"
+        },
+        {
+          "displayName": "Azama Sun Beach",
+          "mapName": "Azama Sun Beach"
+        },
+        {
+          "displayName": "Boxed Ground",
+          "mapName": "Boxed Ground"
+        },
+        {
+          "displayName": "Crunch Town V2",
+          "mapName": "Crunch Town V2"
+        },
+        {
+          "displayName": "Psychedelic Sea",
+          "mapName": "Psychedelic Sea"
+        },
+        {
+          "displayName": "Redbox",
+          "mapName": "Redbox"
+        },
+        {
+          "displayName": "TeardownRemake2",
+          "mapName": "TeardownRemake2"
+        },
+        {
+          "displayName": "CODMW2 RustV1.9",
+          "mapName": "CODMW2 RustV1.9"
+        },
+        {
+          "displayName": "ChopBox",
+          "mapName": "ChopBox"
+        },
+        {
+          "displayName": "Space Map fuked",
+          "mapName": "Space Map fuked"
+        },
+        {
+          "displayName": "Vamm Base(cool)",
+          "mapName": "Vamm Base(cool)"
+        },
+        {
+          "displayName": "de_dust2 COOLER",
+          "mapName": "de_dust2 COOLER"
+        }
+      ],
+      "typeName": "FFA Fiesta"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
       "displayName": "Team Snipers",
       "SpecificMaps": [
         {
@@ -113,14 +207,30 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Backrooms",
+      "displayName": "Castle Wars",
       "SpecificMaps": [
         {
-          "displayName": "Halo Rooms",
-          "mapName": "halo rooms"
+          "displayName": "Transit Wars",
+          "mapName": "Transit Wars"
+        },
+        {
+          "displayName": "Castle Wars 1.8",
+          "mapName": "Castle Wars 1.8"
+        },
+        {
+          "displayName": "Tundra Wars",
+          "mapName": "Tundra Wars"
+        },
+        {
+          "displayName": "Pallet Wars",
+          "mapName": "Pallet Wars"
+        },
+        {
+          "displayName": "Mountain Castle",
+          "mapName": "Mountain Castle"
         }
       ],
-      "typeName": "Backrooms"
+      "typeName": "Castle Wars"
     },
     {
       "commands": [
@@ -307,124 +417,6 @@
         }
       ],
       "typeName": "Epidemic"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "FFA Slayer",
-      "SpecificMaps": [
-        {
-          "displayName": "H1 Hang em High",
-          "mapName": "H1 Hang em High"
-        },
-        {
-          "displayName": "H3 Citadel",
-          "mapName": "H3 Citadel 1.0"
-        },
-        {
-          "displayName": "H3 Construct",
-          "mapName": "H3 Construct"
-        },
-        {
-          "displayName": "Azama Sun Beach",
-          "mapName": "Azama Sun Beach"
-        },
-        {
-          "displayName": "Boxed Ground",
-          "mapName": "Boxed Ground"
-        },
-        {
-          "displayName": "Crunch Town V2",
-          "mapName": "Crunch Town V2"
-        },
-        {
-          "displayName": "Psychedelic Sea",
-          "mapName": "Psychedelic Sea"
-        },
-        {
-          "displayName": "CODMW2 RustV1.9",
-          "mapName": "CODMW2 RustV1.9"
-        },
-        {
-          "displayName": "ChopBox",
-          "mapName": "ChopBox"
-        },
-        {
-          "displayName": "Vamm Base(cool)",
-          "mapName": "Vamm Base(cool)"
-        }
-      ],
-      "typeName": "FFA Slayer"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "FFA Fiesta",
-      "SpecificMaps": [
-        {
-          "displayName": "H1 Hang em High",
-          "mapName": "H1 Hang em High"
-        },
-        {
-          "displayName": "H3 Citadel",
-          "mapName": "H3 Citadel 1.0"
-        },
-        {
-          "displayName": "H3 Construct",
-          "mapName": "H3 Construct"
-        },
-        {
-          "displayName": "Azama Sun Beach",
-          "mapName": "Azama Sun Beach"
-        },
-        {
-          "displayName": "Boxed Ground",
-          "mapName": "Boxed Ground"
-        },
-        {
-          "displayName": "Crunch Town V2",
-          "mapName": "Crunch Town V2"
-        },
-        {
-          "displayName": "Psychedelic Sea",
-          "mapName": "Psychedelic Sea"
-        },
-        {
-          "displayName": "Redbox",
-          "mapName": "Redbox"
-        },
-        {
-          "displayName": "TeardownRemake2",
-          "mapName": "TeardownRemake2"
-        },
-        {
-          "displayName": "CODMW2 RustV1.9",
-          "mapName": "CODMW2 RustV1.9"
-        },
-        {
-          "displayName": "ChopBox",
-          "mapName": "ChopBox"
-        },
-        {
-          "displayName": "Space Map fuked",
-          "mapName": "Space Map fuked"
-        },
-        {
-          "displayName": "Vamm Base(cool)",
-          "mapName": "Vamm Base(cool)"
-        },
-        {
-          "displayName": "de_dust2 COOLER",
-          "mapName": "de_dust2 COOLER"
-        }
-      ],
-      "typeName": "FFA Fiesta"
     },
     {
       "commands": [
@@ -629,14 +621,54 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "One Flag CTF",
+      "displayName": "Parkour",
       "SpecificMaps": [
         {
-          "displayName": "de_dust2 COOLER",
-          "mapName": "de_dust2 COOLER"
+          "displayName": "Final Jump",
+          "mapName": "Final Jump"
+        },
+        {
+          "displayName": "4D Construction",
+          "mapName": "4D Construction"
+        },
+        {
+          "displayName": "1024DeathFloor",
+          "mapName": "1024DeathFloor"
+        },
+        {
+          "displayName": "Brokeclock Jump",
+          "mapName": "Brokeclock Jump"
+        },
+        {
+          "displayName": "Ice Climbing",
+          "mapName": "Ice Climbing"
+        },
+        {
+          "displayName": "Backset Bastion",
+          "mapName": "Backset Bastion"
+        },
+        {
+          "displayName": "The Seven Silos",
+          "mapName": "The Seven Silos"
+        },
+        {
+          "displayName": "Balls",
+          "mapName": "Balls"
+        },
+        {
+          "displayName": "Clear Sky Jump",
+          "mapName": "Clear Sky Jump"
+        },
+        {
+          "displayName": "The Red Ocean",
+          "mapName": "The Red Ocean"
+        },
+        {
+          "displayName": "Final Jump",
+          "mapName": "Final Jump"
         }
       ],
-      "typeName": "One Flag CTF"
+      "typeName": "Run s2"
     },
     {
       "commands": [
