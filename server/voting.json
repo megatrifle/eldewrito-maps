@@ -71,6 +71,18 @@
           "mapName": "H3 Construct"
         },
         {
+          "displayName": "H2 Ascension",
+          "mapName": "H2 Ascension"
+        },
+        {
+          "displayName": "Ghost Town",
+          "mapName": "Ghost Town"
+        },
+        {
+          "displayName": "Ivory Tower",
+          "mapName": "Ivory Tower"
+        },
+        {
           "displayName": "Azama Sun Beach",
           "mapName": "Azama Sun Beach"
         }
@@ -96,6 +108,18 @@
         {
           "displayName": "H3 Construct",
           "mapName": "H3 Construct"
+        },
+        {
+          "displayName": "H2 Ascension",
+          "mapName": "H2 Ascension"
+        },
+        {
+          "displayName": "Ghost Town",
+          "mapName": "Ghost Town"
+        },
+        {
+          "displayName": "Ivory Tower",
+          "mapName": "Ivory Tower"
         },
         {
           "displayName": "Azama Sun Beach",
@@ -510,6 +534,10 @@
         {
           "displayName": "Maximus",
           "mapName": "Maximus"
+        },
+        {
+          "displayName": "Gladiator Pit",
+          "mapName": "Gladiator Pit"
         }
       ],
       "typeName": "Gladiators"
