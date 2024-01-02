@@ -79,6 +79,10 @@
           "mapName": "Ghost Town"
         },
         {
+          "displayName": "Snowbound",
+          "mapName": "Snowbound"
+        },
+        {
           "displayName": "Ivory Tower",
           "mapName": "Ivory Tower"
         },
@@ -98,6 +102,10 @@
       "displayName": "FFA Fiesta",
       "SpecificMaps": [
         {
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
+        },
+        {
           "displayName": "H1 Hang em High",
           "mapName": "H1 Hang em High"
         },
@@ -116,6 +124,10 @@
         {
           "displayName": "Ghost Town",
           "mapName": "Ghost Town"
+        },
+        {
+          "displayName": "Snowbound",
+          "mapName": "Snowbound"
         },
         {
           "displayName": "Ivory Tower",
@@ -221,6 +233,10 @@
         {
           "displayName": "Dark Villages",
           "mapName": "Dark Villages"
+        },
+        {
+          "displayName": "The Train",
+          "mapName": "The Train"
         }
       ],
       "typeName": "Infection2"
@@ -701,6 +717,21 @@
         }
       ],
       "typeName": "Doom Slayer"
+    },
+    {
+      "displayName": "Termites",
+      "typeName": "Termites",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "The Woodshop",
+          "mapName": "The Woodshop"
+        }
+      ]
     }
   ]
 }
