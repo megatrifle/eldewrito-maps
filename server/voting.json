@@ -238,25 +238,6 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Backrooms 2",
-      "SpecificMaps": [
-        {
-          "displayName": "Halo Rooms Dark",
-          "mapName": "halo rooms dark"
-        },
-        {
-          "displayName": "Halo Rooms Dark2",
-          "mapName": "halo rooms drk2"
-        }
-      ],
-      "typeName": "backroom 2"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Backrooms 3",
       "SpecificMaps": [
         {
@@ -272,15 +253,11 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Duhcunt",
+      "displayName": "Duck Hunt",
       "SpecificMaps": [
         {
           "displayName": "HeadOn_A",
           "mapName": "HeadOn_A"
-        },
-        {
-          "displayName": "HeadOn_B",
-          "mapName": "HeadOn_B"
         }
       ],
       "typeName": "Duhcunt2"
@@ -293,6 +270,26 @@
       ],
       "displayName": "China Square",
       "SpecificMaps": [
+        {
+          "displayName": "Cerberus",
+          "mapName": "Cerberus"
+        },
+        {
+          "displayName": "Fat Kid Origins",
+          "mapName": "FatKidOrigins"
+        },
+        {
+          "displayName": "Big Smoke Order",
+          "mapName": "Big Smoke Order"
+        },
+        {
+          "displayName": "FatKidRevenge",
+          "mapName": "FatKidRevenge"
+        },
+        {
+          "displayName": "Presidio v3",
+          "mapName": "Presidio v3"
+        },
         {
           "displayName": "Vietcong",
           "mapName": "Vietcong"
@@ -321,7 +318,7 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Reace",
+      "displayName": "Race",
       "SpecificMaps": [
         {
           "displayName": "Grace St. Race",
@@ -445,24 +442,13 @@
         {
           "displayName": "Presidio v3",
           "mapName": "Presidio v3"
+        },
+        {
+          "displayName": "Vietcong",
+          "mapName": "Vietcong"
         }
       ],
       "typeName": "Fatkid"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Fat Escape",
-      "SpecificMaps": [
-        {
-          "displayName": "Indiana Jones",
-          "mapName": "IndianaJonesv2"
-        }
-      ],
-      "typeName": "Fat Escape"
     },
     {
       "commands": [
@@ -534,21 +520,6 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Halo Burger",
-      "SpecificMaps": [
-        {
-          "displayName": "Halo Burger",
-          "mapName": "Halo Burger 1.1"
-        }
-      ],
-      "typeName": "Halo Burger"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Halo Ring",
       "SpecificMaps": [
         {
@@ -562,10 +533,6 @@
         {
           "displayName": "Baba Race",
           "mapName": "Baba Race"
-        },
-        {
-          "displayName": "Jade Race",
-          "mapName": "Jade Race"
         }
       ],
       "typeName": "Halo Ring V3"
@@ -584,21 +551,6 @@
         }
       ],
       "typeName": "Hog Of The Hill"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Chopboxers",
-      "SpecificMaps": [
-        {
-          "displayName": "ChopBox",
-          "mapName": "ChopBox"
-        }
-      ],
-      "typeName": "Chopboxers"
     },
     {
       "commands": [
@@ -676,6 +628,36 @@
         }
       ],
       "typeName": "Run s2"
+    },
+    {
+      "displayName": "LSD Race on LSD",
+      "typeName": "LSD Race on LSD",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "LSD Race on LSD",
+          "mapName": "LSD Race on LSD"
+        }
+      ]
+    },
+    {
+      "displayName": "LSA Race",
+      "typeName": "LSA Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "LSA Race",
+          "mapName": "LSA Race"
+        }
+      ]
     },
     {
       "commands": [
