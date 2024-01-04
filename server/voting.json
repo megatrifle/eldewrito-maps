@@ -311,26 +311,6 @@
       "displayName": "China Square",
       "SpecificMaps": [
         {
-          "displayName": "Cerberus",
-          "mapName": "Cerberus"
-        },
-        {
-          "displayName": "Fat Kid Origins",
-          "mapName": "FatKidOrigins"
-        },
-        {
-          "displayName": "Big Smoke Order",
-          "mapName": "Big Smoke Order"
-        },
-        {
-          "displayName": "FatKidRevenge",
-          "mapName": "FatKidRevenge"
-        },
-        {
-          "displayName": "Presidio v3",
-          "mapName": "Presidio v3"
-        },
-        {
           "displayName": "Vietcong",
           "mapName": "Vietcong"
         }
