@@ -54,7 +54,8 @@
       "commands": [
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
+        "Server.SprintEnabled 1",
+        "Server.HitMarkersEnabled 1"
       ],
       "displayName": "FFA Slayer",
       "SpecificMaps": [
@@ -710,6 +711,21 @@
         {
           "displayName": "The Woodshop",
           "mapName": "The Woodshop"
+        }
+      ]
+    },
+    {
+      "displayName": "Whacky Races",
+      "typeName": "Whacky Races",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sundown Lake",
+          "mapName": "Sundown Lake V1"
         }
       ]
     }
