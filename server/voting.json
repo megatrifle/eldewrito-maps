@@ -238,6 +238,10 @@
         {
           "displayName": "The Train",
           "mapName": "The Train"
+        },
+        {
+          "displayName": "Azama Sun Beach",
+          "mapName": "Azama Sun Beach"
         }
       ],
       "typeName": "Infection2"
