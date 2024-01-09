@@ -431,21 +431,6 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Epidemic",
-      "SpecificMaps": [
-        {
-          "displayName": "Undead Pit",
-          "mapName": "Undead Pit V2"
-        }
-      ],
-      "typeName": "Epidemic"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Fatkid",
       "SpecificMaps": [
         {
@@ -467,10 +452,6 @@
         {
           "displayName": "Presidio v3",
           "mapName": "Presidio v3"
-        },
-        {
-          "displayName": "Vietcong",
-          "mapName": "Vietcong"
         }
       ],
       "typeName": "Fatkid"
