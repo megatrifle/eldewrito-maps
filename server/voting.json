@@ -167,12 +167,8 @@
           "mapName": "ChopBox"
         },
         {
-          "displayName": "Space Map fuked",
+          "displayName": "Space Map",
           "mapName": "Space Map fuked"
-        },
-        {
-          "displayName": "Vamm Base(cool)",
-          "mapName": "Vamm Base(cool)"
         },
         {
           "displayName": "de_dust2 COOLER",
@@ -192,10 +188,6 @@
         {
           "displayName": "Tip Snippers",
           "mapName": "Tip Snippers"
-        },
-        {
-          "displayName": "Diamondtop",
-          "mapName": "Diamondtop"
         }
       ],
       "typeName": "Team Snipers"
