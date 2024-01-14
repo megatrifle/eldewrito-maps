@@ -198,30 +198,11 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Amethyst Zombiz",
-      "SpecificMaps": [
-        {
-          "displayName": "Amethystback",
-          "mapName": "Amethystback I"
-        }
-      ],
-      "typeName": "Amethyst Zombiz"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Infection",
       "SpecificMaps": [
         {
           "displayName": "Snowhole I",
           "mapName": "Snowhole I"
-        },
-        {
-          "displayName": "Mole Excavating",
-          "mapName": "Mole Excavating"
         },
         {
           "displayName": "Dark Villages",
@@ -502,15 +483,26 @@
           "mapName": "Friendship Pit"
         },
         {
-          "displayName": "Maximus",
-          "mapName": "Maximus"
-        },
-        {
           "displayName": "Gladiator Pit",
           "mapName": "Gladiator Pit"
         }
       ],
       "typeName": "Gladiators"
+    },
+    {
+      "displayName": "Gladiators",
+      "typeName": "Maximus",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Maximus",
+          "mapName": "Maximus"
+        }
+      ]
     },
     {
       "commands": [
@@ -656,21 +648,6 @@
           "mapName": "LSA Race"
         }
       ]
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Doom Slayer",
-      "SpecificMaps": [
-        {
-          "displayName": "Doom 2 Map 02",
-          "mapName": "Doom 2 Map 02"
-        }
-      ],
-      "typeName": "Doom Slayer"
     },
     {
       "displayName": "Termites",
