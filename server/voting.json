@@ -338,10 +338,6 @@
       "displayName": "Race",
       "SpecificMaps": [
         {
-          "displayName": "Grace St. Race",
-          "mapName": "Grace St. Race"
-        },
-        {
           "displayName": "Double!!take",
           "mapName": "Double!!take"
         },
@@ -632,8 +628,8 @@
       "typeName": "Run s2"
     },
     {
-      "displayName": "LSD Race on LSD",
-      "typeName": "LSD Race on LSD",
+      "displayName": "LSD Race",
+      "typeName": "LSD Race",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -706,5 +702,20 @@
         }
       ]
     }
+    {
+        "commands": [
+            "Server.SprintEnabled 1",
+            "Server.AssassinationEnabled 0",
+            "Server.NumberOfTeams 2"
+        ],
+        "displayName": "L i g m a",
+        "SpecificMaps": [
+            {
+                "displayName": "LigmaStickyBals",
+                "mapName": "LigmaStickyBals"
+            }
+        ],
+        "typeName": "L i g m a"
+    },
   ]
 }
