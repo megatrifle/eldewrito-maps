@@ -339,21 +339,6 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Race to the RAT",
-      "SpecificMaps": [
-        {
-          "displayName": "Race2TheRatRoom",
-          "mapName": "Race2TheRatRoom"
-        }
-      ],
-      "typeName": "Race to the RAT"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
       "displayName": "Rent A Car",
       "SpecificMaps": [
         {
@@ -439,21 +424,6 @@
         }
       ],
       "typeName": "Frogger"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "TF2.2V1.3",
-      "SpecificMaps": [
-        {
-          "displayName": "CP_Orange_X404",
-          "mapName": "CP_Orange_X404"
-        }
-      ],
-      "typeName": "TF2.2V1.3"
     },
     {
       "commands": [
