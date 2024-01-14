@@ -678,7 +678,7 @@
           "mapName": "Sundown Lake V1"
         }
       ]
-    }
+    },
     {
         "commands": [
             "Server.SprintEnabled 1",
@@ -693,6 +693,6 @@
             }
         ],
         "typeName": "L i g m a"
-    },
+    }
   ]
 }
