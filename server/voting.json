@@ -169,10 +169,6 @@
         {
           "displayName": "Space Map",
           "mapName": "Space Map fuked"
-        },
-        {
-          "displayName": "de_dust2 COOLER",
-          "mapName": "de_dust2 COOLER"
         }
       ],
       "typeName": "FFA Fiesta"
@@ -209,15 +205,26 @@
           "mapName": "Dark Villages"
         },
         {
-          "displayName": "The Train",
-          "mapName": "The Train"
-        },
-        {
           "displayName": "Azama Sun Beach",
           "mapName": "Azama Sun Beach"
         }
       ],
       "typeName": "Infection2"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "The Train",
+      "SpecificMaps": [
+        {
+          "displayName": "Infection",
+          "mapName": "The Train"
+        }
+      ],
+      "typeName": "The Train"
     },
     {
       "commands": [
@@ -240,10 +247,6 @@
           "mapName": "Tundra Wars"
         },
         {
-          "displayName": "Pallet Wars",
-          "mapName": "Pallet Wars"
-        },
-        {
           "displayName": "Mountain Castle",
           "mapName": "Mountain Castle"
         }
@@ -256,7 +259,7 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "Backrooms 3",
+      "displayName": "Backrooms",
       "SpecificMaps": [
         {
           "displayName": "Backrooms 3",
@@ -406,6 +409,10 @@
         {
           "displayName": "Presidio v3",
           "mapName": "Presidio v3"
+        },
+        {
+          "displayName": "Fat Captain",
+          "mapName": "Fat Captain"
         }
       ],
       "typeName": "Fatkid"
@@ -536,6 +543,10 @@
       "displayName": "Parkour",
       "SpecificMaps": [
         {
+          "displayName": "Brokeclock Jump",
+          "mapName": "Brokeclock Jump"
+        },
+        {
           "displayName": "Final Jump",
           "mapName": "Final Jump"
         }
@@ -557,10 +568,6 @@
         {
           "displayName": "1024DeathFloor",
           "mapName": "1024DeathFloor"
-        },
-        {
-          "displayName": "Brokeclock Jump",
-          "mapName": "Brokeclock Jump"
         },
         {
           "displayName": "Ice Climbing",
@@ -599,13 +606,17 @@
       ],
       "SpecificMaps": [
         {
+          "displayName": "LSD Race",
+          "mapName": "LSD Race"
+        },
+        {
           "displayName": "LSD Race on LSD",
           "mapName": "LSD Race on LSD"
         }
       ]
     },
     {
-      "displayName": "LSA Race",
+      "displayName": "Race",
       "typeName": "LSA Race",
       "commands": [
         "Server.SprintEnabled 1",
@@ -655,14 +666,63 @@
             "Server.AssassinationEnabled 0",
             "Server.NumberOfTeams 2"
         ],
-        "displayName": "L i g m a",
+        "displayName": "Dodgeball",
         "SpecificMaps": [
             {
-                "displayName": "LigmaStickyBals",
+                "displayName": "Sticky Balls",
                 "mapName": "LigmaStickyBals"
             }
         ],
         "typeName": "L i g m a"
+    },
+    {
+        "commands": [
+            "Server.SprintEnabled 1",
+            "Server.AssassinationEnabled 0",
+            "Server.NumberOfTeams 2"
+        ],
+        "displayName": "Skycastle Plus",
+        "SpecificMaps": [
+            {
+                "displayName": "Skycastle 6.1RB",
+                "mapName": "Skycastle 6.1RB"
+            }
+        ],
+        "typeName": "Skycastle Plus"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Pallet Wars",
+      "SpecificMaps": [
+        {
+          "displayName": "Palletfield",
+          "mapName": "Palletfield V2"
+        }
+      ],
+      "typeName": "Pallet Wars"
+    },
+    {
+      "commands": [
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2",
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Team Slayer",
+      "SpecificMaps": [
+        {
+          "displayName": "de_dust2 COOLER",
+          "mapName": "de_dust2 COOLER"
+        },
+        {
+          "displayName": "Ghost Town",
+          "mapName": "Ghost Town"
+        }
+      ],
+      "typeName": "Team Slayer"
     }
   ]
 }
