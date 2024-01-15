@@ -362,10 +362,10 @@
       "SpecificMaps": [
         {
           "displayName": "Drag Race",
-          "mapName": "Drag Race"
+          "mapName": "Drag Race HB"
         }
       ],
-      "typeName": "Drag Race"
+      "typeName": "Drag Race HB"
     },
     {
       "commands": [
