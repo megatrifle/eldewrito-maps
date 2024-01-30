@@ -410,12 +410,23 @@
           "displayName": "Presidio v3",
           "mapName": "Presidio v3"
         },
-        {
-          "displayName": "Fat Captain",
-          "mapName": "Fat Captain"
-        }
       ],
       "typeName": "Fatkid"
+    },
+    {
+        "commands": [
+            "Server.SprintEnabled 1",
+            "Server.AssassinationEnabled 0",
+            "Server.NumberOfTeams 2"
+        ],
+        "displayName": "Fat Captain",
+        "SpecificMaps": [
+            {
+                "displayName": "Steamboat",
+                "mapName": "Steamboat"
+            }
+        ],
+        "typeName": "Fat Captain"
     },
     {
       "commands": [
@@ -704,25 +715,6 @@
         }
       ],
       "typeName": "Pallet Wars"
-    },
-    {
-      "commands": [
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2",
-        "Server.SprintEnabled 1"
-      ],
-      "displayName": "Team Slayer",
-      "SpecificMaps": [
-        {
-          "displayName": "de_dust2 COOLER",
-          "mapName": "de_dust2 COOLER"
-        },
-        {
-          "displayName": "Ghost Town",
-          "mapName": "Ghost Town"
-        }
-      ],
-      "typeName": "Team Slayer"
     }
   ]
 }
