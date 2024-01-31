@@ -220,8 +220,8 @@
       "displayName": "The Train",
       "SpecificMaps": [
         {
-          "displayName": "GNU Conductor",
-          "mapName": "GNU Conductor"
+          "displayName": "Conductor",
+          "mapName": "Conductor"
         }
       ],
       "typeName": "The Train"
