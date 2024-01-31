@@ -217,14 +217,14 @@
         "Server.NumberOfTeams 2",
         "Server.SprintEnabled 1"
       ],
-      "displayName": "The Train",
+      "displayName": "Conductor",
       "SpecificMaps": [
         {
-          "displayName": "Conductor",
-          "mapName": "Conductor"
+          "displayName": "The Train",
+          "mapName": "The Train"
         }
       ],
-      "typeName": "The Train"
+      "typeName": "Conductor"
     },
     {
       "commands": [
