@@ -19,3 +19,5 @@ Newbie
 
 
 - Hot Wheels / Toy Story hill doesn't register when going fast
+
+- Gametype mistmatch for steamboat, should not have needler
